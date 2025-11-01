@@ -1,3 +1,6 @@
+Requires knowledge of Docker, IP mapping, and storage configuration. Not a plug-and-play setup.
+
+
 # 🧩 AnythingLLM MCP HTTP Bridge  
 
 **Lightweight HTTP bridge for AnythingLLM to connect multiple local MCP servers securely via Docker.**  
