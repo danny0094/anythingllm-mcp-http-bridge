@@ -1,4 +1,4 @@
-Requires knowledge of Docker, IP mapping, and storage configuration. Not a plug-and-play setup.
+This is an early dev version — not plug-and-play yet. You’ll need to know your way around Docker networks and storage mapping.
 
 
 # 🧩 AnythingLLM MCP HTTP Bridge  
